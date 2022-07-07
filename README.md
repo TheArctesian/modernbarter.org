@@ -10,6 +10,14 @@ Example:
 
 A temperature control coffee mug costs 150 USD and a traditional coffee mug costs 25 USD. So to trade for it you would need `150/25=6` traditional coffee mugs to get 1 temperature controled mug.
 
+
+
+## Brother Ingenius idea 
+Before the values are showed the user is promted with 2 empty boxs to determine how consumers value to see the value of brand then show real price. 
+
+## Trade platform 
+Test what amount of x or x+y+z = bigger value
+
 ## Info
 
 ```
