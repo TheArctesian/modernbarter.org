@@ -41,3 +41,18 @@ Used [this](https://www.youtube.com/watch?v=AlLBG6HrE7E) tutorial
 
 Is not done but good start, tbh i think graphql might be bit overdonig it here but I'll leave it here for now
 <hr>
+
+
+<strong>Name: </strong> The Arctesian
+<br>
+<strong>Time: </strong> 16.36-16.53
+<br>
+<strong>Date: </strong> 10.07.2022
+<br>
+<strong>Goal: </strong> Set up theory readme file
+<br>
+<strong>Description: </strong>
+
+I set up the readme file for the paper, this will later be translated into latex. This is for so that writing the paper is easier as my brother is not as familiar with LaTex syntax.
+
+<hr>
