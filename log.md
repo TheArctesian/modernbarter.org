@@ -57,7 +57,6 @@ I set up the readme file for the paper, this will later be translated into latex
 
 <hr>
 
-
 <strong>Name: </strong> Alex Okita
 <br>
 <strong>Time: </strong> 6.50 - 7.38
@@ -71,3 +70,4 @@ I set up the readme file for the paper, this will later be translated into latex
 Fuck you ill write LaTeX later im just not bothered to do it in that format now, suck my pp. Finished a rough introduction, will need to add sources into my work as I go on, but I think its a good framework to begin the research
 
 <hr>
+
