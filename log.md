@@ -68,6 +68,6 @@ I set up the readme file for the paper, this will later be translated into latex
 <br>
 <strong>Description: </strong>
 
-Fuck you ill write LaTeX later im just not bothered to do it in that format now, suck my pp. Finished a rough introduction, will need to add sources into my work as I go on, but I think its a good framework to begin the research. 
+Fuck you ill write LaTeX later im just not bothered to do it in that format now, suck my pp. Finished a rough introduction, will need to add sources into my work as I go on, but I think its a good framework to begin the research
 
 <hr>
