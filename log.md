@@ -56,3 +56,18 @@ Is not done but good start, tbh i think graphql might be bit overdonig it here b
 I set up the readme file for the paper, this will later be translated into latex. This is for so that writing the paper is easier as my brother is not as familiar with LaTex syntax.
 
 <hr>
+
+<strong>Name: </strong> Alex Okita
+<br>
+<strong>Time: </strong> 6.50 - 7.38
+<br>
+<strong>Date: </strong> 10.7.22
+<br>
+<strong>Goal: </strong> Define theoretical framework and project aim 
+<br>
+<strong>Description: </strong>
+
+Fuck you ill write LaTeX later im just not bothered to do it in that format now, suck my pp. Finished a rough introduction, will need to add sources into my work as I go on, but I think its a good framework to begin the research
+
+<hr>
+
