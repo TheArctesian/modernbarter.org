@@ -1,0 +1,63 @@
+{
+    "Products" : [
+        {
+            "Tec Hardware" : [
+                {
+                    "id": 1,
+                    "name" : "NVIDIA RTX 3090",
+                    "image" : "https://assets.nvidia.partners/images/png/nvidia-geforce-rtx-3090.png",
+                    "price" : 1500, 
+                    "source" : "NVIDIA"
+                },
+                {
+                    "id": 2,
+                    "name" : "NVIDIA RTX 3080",
+                    "image" : "https://assets.nvidia.partners/images/png/nvidia-geforce-rtx-3080.png",
+                    "price" : 700,
+                    "source" : "NVIDIA"
+                },
+                {
+                    "id": 3,
+                    "name" : "Ryzen 9 5950X",
+                    "image" : "https://www.bhphotovideo.com/images/images1000x1000/amd_100_100000061wof_ryzen_9_5900x_3_7_1598373.jpg",
+                    "price" : 800,
+                    "source" : "AMD"
+                },
+                {
+                    "id": 4,
+                    "name" : "16-inch MacBook Pro Apple M1 Max Chip",
+                    "image" : "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/refurb-mbp16-space-m1-2021?wid=572&hei=572&fmt=jpeg&qlt=95&.v=1643239951000",
+                    "price" : 3500,
+                    "source" :  "Apple" 
+                }
+            ],
+            "Software" : [
+                {
+                    "id": 5,
+                    "name" : "Windows 11 Pro",
+                    "image" : "https://www.cnet.com/a/img/resize/23cd2c91d4ae10e4d0f2e7d692d2bd3e806c1c58/2021/06/24/e58fceb6-e7c1-40fb-bf6d-b29e81f9a713/screen-shot-2021-06-24-at-11-45-41-am-2.png?auto=webp&fit=crop&height=630&width=1200",
+                    "price" : 199, 
+                    "source" : "Microsoft"
+                },
+                {
+                    "id" : 6,
+                    "name" : "Creative Cloud All Apps",
+                    "image" : "https://www.adobe.com/content/dam/shared/images/product-icons/svg/creative-cloud.svg",
+                    "price" : 55,
+                    "source" : "Adobe"
+                }
+            ],
+            "Grocery" : [
+                {
+                    "id" : 7,
+                    "name" : "Hershey's Milk Chocolate (6 Count)",
+                    "image" : "https://i5.walmartimages.com/asr/a2653c45-d78d-49b0-bbe1-1f00a3a045be.70d924de73cccca9d8226e72b428b7a2.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF",
+                    "price" : 4,
+                    "source" : "walmart"
+                }
+            ]
+        }
+    ]
+}
+
+
